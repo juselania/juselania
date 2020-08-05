@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi sou a Jucelania 👋
 
-<!--
-**jucelania/jucelania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jucelânia conhecida como Jully Developer, sou estudante de Analise e Desenvolvimento de Sistemas na Estácio de Sá.
+Iniciante no mundo fantastico do frontEnd. ❤️
 
-Here are some ideas to get you started:
+- 👩‍💻 Desenvolvimento de Sistemas (ETE)
+- 🚀 Techs: HTML, CSS, JavaScript, SQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Publico conteúdos diarios sobre a maratona dos #100 days of code no meu instagram @jullydeveloper e no linkedin: 
+
+[![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/)]
+
+Feito com ❤️ por Jully Developer 👋🏽
