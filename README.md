@@ -1,4 +1,4 @@
-### Hi sou a Jucelania 👋
+### Olá sou a Jucelania 👋
 
 Meu nome é Jucelânia conhecida como Jully Developer, sou estudante de Analise e Desenvolvimento de Sistemas na Estácio de Sá.
 Iniciante no mundo fantastico do frontEnd. ❤️
