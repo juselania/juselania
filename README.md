@@ -8,6 +8,6 @@ Iniciante no mundo fantastico do frontEnd. ❤️
 
 Publico conteúdos diarios sobre a maratona dos #100 days of code no meu instagram @jullydeveloper e no linkedin: 
 
-[![Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/)]
+[Linkedin Badge](https://img.shields.io/badge/https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/)
 
 Feito com ❤️ por Jully Developer 👋🏽
