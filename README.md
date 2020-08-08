@@ -1,6 +1,6 @@
 ### Olá sou a Jucelania 👋
 
-Meu nome é Jucelânia conhecida como Jully Developer, sou apaixonada por JavaScript, adoro compartilhar o que venho estudando em minhas redes sociais! Participo dos #100daysofcode para aperfeiçoar ainda mais meus conhecimentos; compartilho tudo o que venho aprendendo em minhas redes dociais.  
+Meu nome é Jucelânia conhecida como Jully Developer, sou apaixonada por JavaScript adoro trabalhar com medotodologia ágeis! Participo dos #100daysofcode para aperfeiçoar ainda mais meus conhecimentos; compartilho tudo o que venho aprendendo em minhas redes dociais.  
 
 - 📚 Graduanda Analise e Desenvolvimento de Sistemas. 
 - 🌱 Techs: HTML, CSS, JavaScript, SQL.
