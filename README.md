@@ -1,11 +1,14 @@
-### Olá sou a Jucelania 👋
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! 
 
-Meu nome é Jucelânia conhecida como Jully Developer, sou apaixonada por JavaScript adoro trabalhar com medotodologia ágeis! Participo dos #100daysofcode para aperfeiçoar ainda mais meus conhecimentos; compartilho tudo o que venho aprendendo em minhas redes dociais.  
+Muito pazer! Me chamo Juselânia, mais conhecida como Jullyana, sou iniciante e meu objetivo é me tornar um Front-End Developer;  
+Tenho paixão por aprender e compartilhar meus conhecimentos, além disso sou criador de conteúdo no instagram .[@jullydeveloper](https://www.instagram.com/jullydeveloper/) 
 
-- 📚 Graduanda Analise e Desenvolvimento de Sistemas. 
-- 🌱 Techs: HTML, CSS, JavaScript, SQL.
-- 🎯 100 Days Of Code.
+No meu tempo livre prático meu inglês e espanhol, amo café acompanhado de uma boa leitura!!
 
-- Veja meu instagram: https://www.instagram.com/jullydeveloper/
-- Veja meu Linkedin: https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/
- 
+E se quiser trocar alguma ideia comigo, ficarei feliz para abrir este canal de diálogo:
+juselania2019@outlook.com
+
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jucel%C3%A2nia-silva-56a375197/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/jullydeveloper/) 
+
+
+
