@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! 
 
-Muito pazer! Me chamo Juselânia, mais conhecida como Jullyana, sou iniciante e meu objetivo é me tornar uma Front-End Developer;  
+Muito prazer! Me chamo Juselânia, mais conhecida como Jullyana, sou iniciante e meu objetivo é me tornar uma Front-End Developer;  
 Tenho paixão por aprender e compartilhar meus conhecimentos, além disso sou criador de conteúdo no instagram .[@jullydeveloper](https://www.instagram.com/jullydeveloper/) 
 
 No meu tempo livre prático meu inglês e espanhol, amo café acompanhado de uma boa leitura!!
