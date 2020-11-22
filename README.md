@@ -3,7 +3,7 @@
 Muito prazer! Me chamo Juselânia, mais conhecida como Jullyana, sou iniciante e meu objetivo é me tornar uma Developer Mobile;  
 Tenho paixão por aprender e compartilhar meus conhecimentos, além disso sou criador de conteúdo no instagram [@jullydeveloper](https://www.instagram.com/jullydeveloper/) 
 
-No meu tempo livre prático meu inglês e espanhol, amo café acompanhado de uma bom livro!
+No meu tempo livre prático meu inglês e prático esportes, amo café acompanhado de uma boa leitura!
 
 E se quiser trocar alguma ideia comigo, ficarei feliz para abrir este canal de diálogo:
 juselania2019@outlook.com
