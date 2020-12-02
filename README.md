@@ -1,6 +1,6 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello! 
 
-Muito prazer! Me chamo Juselânia, mais conhecida como Jullyana, sou iniciante com programação Mobile;  
+Muito prazer! Me chamo Juselânia, sou iniciante com programação Mobile;  
 Tenho paixão por aprender e compartilhar meus conhecimentos, além disso sou criador de conteúdo no instagram [@jusydeveloper](https://www.instagram.com/jusydeveloper/) 
 
 No meu tempo livre prático meu inglês e prático esportes, amo café acompanhado de uma boa leitura!
